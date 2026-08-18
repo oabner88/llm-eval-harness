@@ -1,0 +1,32 @@
+[
+  {
+    "campaign_id": "camp_001",
+    "spend": 12500.0,
+    "roas": 3.2,
+    "sales": 40000.0
+  },
+  {
+    "campaign_id": "camp_002",
+    "spend": 8000.0,
+    "roas": 2.75,
+    "sales": 22000.0
+  },
+  {
+    "campaign_id": "camp_003",
+    "spend": 21000.0,
+    "roas": 4.1,
+    "sales": 86100.0
+  },
+  {
+    "campaign_id": "camp_004",
+    "spend": 5400.0,
+    "roas": 1.9,
+    "sales": 10260.0
+  },
+  {
+    "campaign_id": "camp_005",
+    "spend": 17300.0,
+    "roas": 3.6,
+    "sales": 62280.0
+  }
+]
